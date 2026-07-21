@@ -23,7 +23,6 @@ Explanation: By reversing the digits of number, number will change into 54321.
 public class Reversedigits {
 
     static int reverse(int n){
-        int original = n;
         int rev = 0;
         while(n!=0){
             int ldigit = n%10;

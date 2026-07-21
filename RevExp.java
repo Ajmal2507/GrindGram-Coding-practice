@@ -16,7 +16,6 @@ Input: n = 10
 Output: 10
 Explanation: The reverse of 10 is 1 (leading zero is discarded), and 10 raised to the power 1 is 10.
  */
-import java.util.*;
 public class RevExp {
 
     static int reverseExponentiation(int n){
