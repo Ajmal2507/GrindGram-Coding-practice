@@ -22,3 +22,9 @@ public class Perfectnum {
     }
     
 }
+
+// divisors of 6
+// 1,2,3,6 -> leave 6  since it is same number
+// add 1,2,3
+// 6=6
+
