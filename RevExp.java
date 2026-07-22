@@ -1,4 +1,3 @@
-import java.net.SocketPermission;
 
 /**
  * RevExp
