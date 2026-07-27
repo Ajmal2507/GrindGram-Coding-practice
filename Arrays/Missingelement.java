@@ -1,4 +1,3 @@
-package Arrays;
 
 public class Missingelement {
     public static int solution(int[] arr){

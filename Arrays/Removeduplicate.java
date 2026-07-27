@@ -1,4 +1,3 @@
-package Arrays;
 
 public class Removeduplicate {
     static int Solution(int[] arr){

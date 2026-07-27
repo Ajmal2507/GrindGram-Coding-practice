@@ -1,4 +1,3 @@
-package Arrays;
 public class Smallest {
 
     // Smallest element in an array...

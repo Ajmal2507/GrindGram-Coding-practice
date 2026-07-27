@@ -1,4 +1,3 @@
-package Arrays;
 
 public class Thirdlarge {
     public static void main(String[] args) {

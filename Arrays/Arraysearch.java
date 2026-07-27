@@ -1,4 +1,3 @@
-package Arrays;
 
 public class Arraysearch {
     public static void main(String[] args) {
