@@ -1,6 +1,13 @@
 public class Rotatearrayby1 {
     public static void solution(int[] arr){
+
         int n = arr.length;
+
+        if(arr==null || n<=1){
+            System.out.println("Invalid");
+            return;
+        }
+
         int lastelement = arr[n-1];
         for(int i=n-1;i>0;i--){
             arr[i] = arr[i-1];
