@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.List;
 
 /*
 Rotate the Array by K elements
