@@ -20,7 +20,7 @@ Output: false
 Explanation: No pair is possible as only one element is present in arr[]
 */
 
-public class Findpairwithsum {
+public class TwoSum {
     public static boolean solution(int[] arr, int target){
         HashSet<Integer> set = new HashSet<>();
         
