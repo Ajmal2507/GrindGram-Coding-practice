@@ -25,6 +25,7 @@ Interview frequency: ⭐⭐⭐⭐⭐
 public class MajorityElement {
     public static void main(String[] args) {
         int[] arr = {2,3,2,1,1,1,2,2,3,3,3,4};
+        // Boyer-Moore Majority Vote
         int candidate = 0;
         int count = 0;
         for(int num: arr){
