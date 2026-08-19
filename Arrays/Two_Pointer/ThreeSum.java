@@ -42,3 +42,5 @@ public class ThreeSum {
         System.out.println(solution(arr,target));
     }
 }
+
+// Two sum concept == Three Sum concept
