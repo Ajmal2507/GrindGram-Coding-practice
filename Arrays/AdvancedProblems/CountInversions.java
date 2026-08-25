@@ -8,6 +8,18 @@ public class CountInversions{
                 }
             }
         }
+        /*
+            int count = 0;
+            int i = 0;
+            int j = arr.length-1;
+            while(i<j){
+                if(arr[i]>arr[j]){
+                    count++;
+                }
+                i++;
+                j--;
+            }
+        */
         return count;
     }
     public static void main(String[] args) {
